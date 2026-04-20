@@ -1,0 +1,4 @@
+cd C:\Users\DELL\eez-app
+npx eas login
+npx eas build:configure
+npx eas build --platform android --profile preview
